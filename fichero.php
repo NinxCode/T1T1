@@ -1,13 +1,13 @@
 <?php
 
-echo "Creao fichero";
+/* echo "Creao fichero";
 
 $num = 1;
 $num2 = 2;
 
 $suma = $num + $num2;
 
-echo "La suma es: " . $suma;
+echo "La suma es: " . $suma; */
 
 	$operando1 = $_GET['operando1'];
 	$operando2 = $_GET['operando2'];
